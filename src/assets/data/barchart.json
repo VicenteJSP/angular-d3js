@@ -1,0 +1,106 @@
+[
+    {
+        "nombre": "A",
+        "frecuencia": 0.08167
+    },
+    {
+        "nombre": "B",
+        "frecuencia": 0.01492
+    },
+    {
+        "nombre": "C",
+        "frecuencia": 0.02782
+    },
+    {
+        "nombre": "D",
+        "frecuencia": 0.04253
+    },
+    {
+        "nombre": "E",
+        "frecuencia": 0.12702
+    },
+    {
+        "nombre": "F",
+        "frecuencia": 0.02288
+    },
+    {
+        "nombre": "G",
+        "frecuencia": 0.02015
+    },
+    {
+        "nombre": "H",
+        "frecuencia": 0.06094
+    },
+    {
+        "nombre": "I",
+        "frecuencia": 0.06966
+    },
+    {
+        "nombre": "J",
+        "frecuencia": 0.00153
+    },
+    {
+        "nombre": "K",
+        "frecuencia": 0.00772
+    },
+    {
+        "nombre": "L",
+        "frecuencia": 0.04025
+    },
+    {
+        "nombre": "M",
+        "frecuencia": 0.02406
+    },
+    {
+        "nombre": "N",
+        "frecuencia": 0.06749
+    },
+    {
+        "nombre": "O",
+        "frecuencia": 0.07507
+    },
+    {
+        "nombre": "P",
+        "frecuencia": 0.01929
+    },
+    {
+        "nombre": "Q",
+        "frecuencia": 0.00095
+    },
+    {
+        "nombre": "R",
+        "frecuencia": 0.05987
+    },
+    {
+        "nombre": "S",
+        "frecuencia": 0.06327
+    },
+    {
+        "nombre": "T",
+        "frecuencia": 0.09056
+    },
+    {
+        "nombre": "U",
+        "frecuencia": 0.02758
+    },
+    {
+        "nombre": "V",
+        "frecuencia": 0.00978
+    },
+    {
+        "nombre": "W",
+        "frecuencia": 0.0236
+    },
+    {
+        "nombre": "X",
+        "frecuencia": 0.0015
+    },
+    {
+        "nombre": "Y",
+        "frecuencia": 0.01974
+    },
+    {
+        "nombre": "Z",
+        "frecuencia": 0.00074
+    }
+]
