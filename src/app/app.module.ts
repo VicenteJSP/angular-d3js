@@ -4,10 +4,12 @@ import { HttpClientModule } from '@angular/common/http';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { HolaMundoComponent } from './d3js/hola-mundo/hola-mundo.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    HolaMundoComponent
   ],
   imports: [
     BrowserModule,
